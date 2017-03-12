@@ -1,0 +1,118 @@
+# test effects stuff
+
+#irqfukker.prg
+#assets/m5betaplanet.prg	e000 2
+
+#twist.prg
+#twist.prg 	fff0 	2 		3
+
+#rotozoom
+
+#rotozoom.prg
+#rotozoom.prg 	fff0 	2 		3
+#laser2.hires		2000	0		1f40
+
+#msdos2 
+#msdos2.prg
+#msdos2.prg 		fff0	2  		3
+#kiss_the_bride.hires		2000	0		1f40
+#kiss_the_bride.hires		800		1f40	3e8
+
+#spriteoverlay
+
+#spriteoverlay.prg
+#spriteoverlay.prg 	fff0 	2 		3
+#mohkosprites.bin  	4000 	0		16c0
+#mohko.hires  		6000 	0 		1f40
+#mohko.hires  		5C00 	1f40 	3e8
+
+#logo2.petscii		400 	2		3E8
+#logo2.petscii		d800! 	3EA		3E8
+
+
+#valo 
+
+#valo.prg
+#valo.prg 		fff0	2  		3
+#valosprites.prg
+#pallo_blue.hires		2000	0		1f40
+#pallo_blue.hires		800		1f40	3e8
+#pumpum.prg
+##pumpum.hires		2000	0		1f40
+##pumpum.hires		CC00	1f40	3e8
+
+#kallo.hires 	5D00	1f40 	3e8
+#kallo.hires		2000	0		1f40
+
+#laser 
+
+#laser.prg
+#laser.prg 		fff0	2  		3
+#laser.hires		2000	0		1f40
+
+#laser.hires		2000	0		1f40
+
+#logo1.petscii		d020! 	0		2
+#logo1.petscii		400 	2		3E8
+#logo1.petscii		d800! 	3EA		3E8
+
+
+
+
+# :: RELEASE STUFF ::
+
+irqfukker.prg
+irqfukker.prg	fff0 	17 		3
+
+msdos.prg
+msdos.prg 		fff0	2  		3
+pallo_blue.hires		2000	0		1f40
+pallo_blue.hires		800		1f40	3e8
+
+valo.prg
+valo.prg 		fff0	2  		3
+valosprites.prg
+assets/m5betaplanet.prg	e000 2
+pumpum.prg
+
+kallo.hires 	6000	1f40 	3e8
+kallo.hires		2000	0		1f40
+
+laser.prg 		0 		0		6000
+
+#laser.hires		2000	0		1f40
+pumpum.hires		2000	0		1f40
+#pumpum.hires		400		1f40	3e8
+pumpum.hires		CC00	1f40	3e8
+
+laser2.hires		2000	0		1f40
+laser.prg 		a000 	6002	6000
+laser.prg		fff0	2  		3
+
+laser.hires		2000	0		1f40
+
+logo1.petscii		d020! 	0		2
+logo1.petscii		400 	2		3E8
+logo1.petscii		d800! 	3EA		3E8
+
+spriteoverlay.prg
+spriteoverlay.prg 	fff0 	2 		3
+mohkosprites.bin  	4000 	0		16c0
+mohko.hires  		6000 	0 		1f40
+mohko.hires  		5C00 	1f40 	3e8
+
+logo2.petscii		400 	2		3E8
+logo2.petscii		d800! 	3EA		3E8
+
+valosprites.prg 	200		1C2		200
+msdos2.prg
+msdos2.prg 		fff0	2  		3
+kiss_the_bride.hires		2000	0		1f40
+kiss_the_bride.hires		800		1f40	3e8
+
+twist.prg
+twist.prg 	fff0 	2 		3
+
+rotozoom.prg
+rotozoom.prg 	fff0 	2 		3
+laser.hires		2000	0		1f40
